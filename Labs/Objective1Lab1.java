@@ -4,5 +4,4 @@ public class Objective1Lab1 {
     System.out.println("Craig Dreiling");
     System.out.println("Hello GitHub");
   }
-
 }
