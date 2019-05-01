@@ -6,7 +6,7 @@ public class Objective3Lab1 {
     Scanner input = new Scanner(System.in);
 
     System.out.println("Please type a word: ");
-    //userInput = input.nextString();
+    userInput = input.nextLine();
     input.close();
   }
 }
